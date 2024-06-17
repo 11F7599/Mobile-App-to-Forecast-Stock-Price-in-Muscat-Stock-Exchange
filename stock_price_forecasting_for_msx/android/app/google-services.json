@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "423433045887",
+    "firebase_url": "https://msx-plus-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "msx-plus",
+    "storage_bucket": "msx-plus.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:423433045887:android:0434fcc45e950484ba7c4a",
+        "android_client_info": {
+          "package_name": "com.example.stock_price_forecasting_for_msx"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFlHfLdL1HOoj0G2rgaYbbM4cX-o1S13w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
